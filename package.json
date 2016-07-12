@@ -1,5 +1,5 @@
 {
-  "name": "react-news-cards",
+  "name": "PROJECT_NAME",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cdhumphreys/react-news-cards.git"
+    "url": "https://github.com/cdhumphreys/PROJECT_NAME.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cdhumphreys/react-news-cards/issues"
+    "url": "https://github.com/cdhumphreys/PROJECT_NAME/issues"
   },
-  "homepage": "https://github.com/cdhumphreys/react-news-cards",
+  "homepage": "https://github.com/cdhumphreys/PROJECT_NAME",
   "devDependencies": {
     "babel-core": "^6.10.4",
     "babel-loader": "^6.2.4",
